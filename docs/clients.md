@@ -25,7 +25,7 @@ Kasalix provides two client applications that connect to the server over your lo
 
 - 💬 **AI Chat** — Full conversation interface with streaming responses
 - 🛠️ **Agent Mode** — AI with tool access (calculator, search, code execution)
-- 📝 **Editor Mode** — Collaborative code editing with AI assistance
+- 🎬 **Video Editor Mode** — AI-powered video editing assistance
 - 🖼️ **Image Upload** — Share images with the AI for analysis
 - 🗂️ **Conversations** — History and thread management
 - 🎨 **Theme Support** — Light and dark mode
@@ -48,18 +48,6 @@ Kasalix provides two client applications that connect to the server over your lo
 2. Open the APK file and follow the prompts
 3. Launch the app and enter the server address
 
-## Building from Source
-
-To build the clients yourself, use the `dev-build-tool.bat` script in the project root. It handles:
-1. Configuring the server IP and port
-2. Building the Windows EXE (Electron + electron-builder)
-3. Building the Android APK (Capacitor + Android SDK)
-
-Requirements:
-- Node.js 18+
-- npm
-- Android SDK for APK builds
-
 ## Troubleshooting
 
 **Client can't find the server:**
@@ -77,3 +65,6 @@ Requirements:
 - AI model response time is the main bottleneck
 - Network speed usually isn't the issue on LAN
 - Try a smaller/faster AI model
+
+
+

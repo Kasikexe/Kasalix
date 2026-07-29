@@ -27,16 +27,16 @@ AI agents with tool access for autonomous task execution:
 - **Unit Conversion** — Convert between measurement units
 - **Random Generation** — Generate passwords, numbers, IDs
 
-### 📝 Editor Mode
+### 🎬 Video Editor Mode
 
-Collaborative code editing with AI assistance:
+AI-powered video editing assistance:
 
-- **Syntax highlighting** — Multiple language support
-- **File tree** — Browse workspace files
-- **AI editing** — Ask AI to write or modify code
-- **Diff view** — See changes before accepting
-- **Multi-file** — Work on entire projects
-- **Terminal** — Built-in command execution
+- **Scene analysis** — AI understands video structure and content
+- **Script generation** — Create and refine video scripts
+- **Edit suggestions** — Get intelligent recommendations for cuts and transitions
+- **Metadata extraction** — Pull technical details from video files
+- **Voiceover scripts** — Generate narration text from video content
+- **Batch processing** — Handle multiple video files at once
 
 ## Platform Features
 
@@ -144,7 +144,7 @@ Use Kasalix from any device on your network:
 | No registration required | ✅ | ❌ | ✅ |
 | Server monitoring | ✅ | ❌ | ❌ |
 | Agent mode | ✅ | ✅ | ❌ |
-| Editor mode | ✅ | ❌ | ❌ |
+| Video Editor Mode | ✅ | ❌ | ❌ |
 | Windows client | ✅ | ✅ | ❌ |
 | Android client | ✅ | ✅ | ❌ |
 | Auto-update | ✅ | ✅ | ❌ |
@@ -167,3 +167,4 @@ Planned features for future releases:
 - 🎤 Voice input/output
 - 📱 iOS client
 - 🔄 WebSocket API
+
