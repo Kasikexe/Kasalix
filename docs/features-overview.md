@@ -27,7 +27,7 @@ AI agents with tool access for autonomous task execution:
 - **Unit Conversion** — Convert between measurement units
 - **Random Generation** — Generate passwords, numbers, IDs
 
-### 🎬 Video Editor Mode
+### 🎬 Video Editor Mode (Planned)
 
 AI-powered video editing assistance:
 
@@ -92,13 +92,6 @@ Use Kasalix from any device on your network:
 
 ## Deployment Features
 
-### 📦 Easy Installation
-
-- **NSIS installer** — Standard Windows setup experience
-- **Auto-dependency check** — Bun, Ollama verified on startup
-- **Self-contained** — Everything in one directory
-- **Zero cloud dependency** — Works completely offline
-
 ### 🔄 Auto-Update
 
 - **Windows client** — Automatic updates from server
@@ -158,13 +151,6 @@ Use Kasalix from any device on your network:
 
 Planned features for future releases:
 
-- 🐳 Docker support
-- 📚 RAG (Retrieval Augmented Generation)
-- 🌐 Custom knowledge bases
-- 📊 Usage analytics dashboard
-- 🔌 Plugin system
-- 🤖 Custom agent workflows
 - 🎤 Voice input/output
 - 📱 iOS client
-- 🔄 WebSocket API
 

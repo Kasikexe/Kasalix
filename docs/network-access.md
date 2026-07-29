@@ -113,10 +113,6 @@ Simply share the IP address and port displayed in the Server GUI:
 Server: http://192.168.1.5:3001
 ```
 
-### Via QR Code
-
-The download page (`http://[SERVER_IP]:3001/download`) can be bookmarked or shared. A QR code feature is planned for a future release.
-
 ## HTTPS / SSL
 
 ### Default (Self-Signed)
@@ -146,12 +142,6 @@ If your computer has multiple network adapters (Ethernet, Wi-Fi, VPN, virtual ma
 - **Wi-Fi**: Convenient, may be slower
 - **VPN**: Accessible if connected, but may add latency
 - **Virtual adapters**: Docker, VMware, VirtualBox — typically not needed
-
-## Internet Access (Not Recommended)
-
-> ⚠️ **Warning:** Exposing Kasalix to the internet without additional security is **not recommended**. The server is designed for local network use.
-
-If you must access the server remotely, use a **VPN** (WireGuard, Tailscale, ZeroTier, or OpenVPN) instead of port forwarding.
 
 ### Tailscale Example
 

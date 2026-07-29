@@ -100,31 +100,6 @@ Models are loaded into memory when you send the first request. They stay loaded 
 
 The Server GUI shows which models are currently loaded under **Running Models**.
 
-## Advanced Ollama Configuration
-
-### Custom Model Directory
-
-To change where models are stored:
-
-```bash
-set OLLAMA_MODELS=D:\ollama_models
-ollama serve
-```
-
-### Concurrency
-
-By default, Ollama handles one request at a time per model. To change this, see the [Ollama documentation](https://github.com/ollama/ollama).
-
-### Remote Ollama
-
-If Ollama is running on a different machine, set:
-
-```bash
-set OLLAMA_HOST=http://192.168.1.10:11434
-```
-
-Then start the Kasalix server — it will connect to the remote Ollama instance.
-
 ## Troubleshooting
 
 **Ollama won't start:**
