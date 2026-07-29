@@ -1,112 +1,137 @@
 # Privacy Policy
 
-**Last updated: July 2026**
+**Effective Date:** July 29, 2026
 
-## Introduction
+This Privacy Policy explains how Kasalix handles information when you use the Software.
 
-Kasalix AI Chat ("the Software") is a self-hosted local AI platform designed to run on your own hardware. This Privacy Policy explains how the Software handles data when you use it.
+---
 
-## 1. Data Collection
+# 1. Overview
 
-### What We Collect
+Kasalix is designed with privacy as a core principle.
 
-**The Software itself does not collect any data.** Because Kasalix is self-hosted and runs entirely on your local machine or network, no data is transmitted to external servers operated by us.
+Unlike cloud-based AI services, Kasalix operates on hardware controlled by the host.
 
-The following data is stored locally on your server:
+We do not operate servers that process your conversations.
 
-| Data Type | Where It's Stored | Purpose |
-|-----------|-------------------|---------|
-| Chat messages | Local filesystem | Conversation history |
-| User accounts | Local filesystem | Authentication |
-| Uploaded files | Local filesystem | File sharing with AI |
-| Generated images | Local filesystem | Image output |
-| Settings/preferences | Local filesystem | User configuration |
-| Session tokens | In-memory | Active session management |
+---
 
-### What We Do NOT Collect
+# 2. Information We Collect
 
-- **No telemetry** — The Software does not track usage statistics
-- **No analytics** — No analytics services are embedded
-- **No crash reports** — Error data stays on your machine
-- **No personal information** — We don't collect names, emails, or contact details
-- **No IP logging** — Server logs don't record IP addresses of users (except for rate-limiting purposes, which are in-memory only)
+Kasalix itself does **not intentionally collect**:
 
-## 2. Data Storage
+* Personal information.
+* Chat messages.
+* Uploaded images.
+* AI prompts.
+* AI responses.
+* Analytics.
+* Telemetry.
+* Usage statistics.
+* Advertising identifiers.
+* Device tracking information.
 
-### Local Storage
+---
 
-All data is stored locally on the server machine in the installation directory. Data is stored as:
-- **JSON files** for conversations and settings
-- **Binary files** for uploaded images and generated content
-- **In-memory** for active sessions (lost on server restart)
+# 3. Local Storage
 
-### Data Retention
+Information generated while using Kasalix may be stored locally on the host computer.
 
-Data is retained until you choose to delete it:
-- **Conversations**: Deleted when you delete them in the UI
-- **Accounts**: Persist until the user database is deleted
-- **Uploaded files**: Persist until manually removed
-- **Session tokens**: Expire after 24 hours (configurable)
+This may include:
 
-## 3. Data Sharing
+* User accounts.
+* Password hashes.
+* Local configuration.
+* Chat history (if enabled by the host).
+* Uploaded files.
+* Logs created by the host server.
 
-### Third-Party Services
+This information remains under the control of the person hosting the Kasalix server.
 
-The Software may communicate with the following services only when explicitly configured:
+---
 
-| Service | Purpose | When |
-|---------|---------|------|
-| **GitHub** | Download client updates | When you click "Download" in the Server GUI |
-| **Ollama** | AI model inference | Local network only (port 11434) |
+# 4. AI Processing
 
-### No Data Sale
+AI requests are processed by Ollama and the AI models installed by the host.
 
-We do not sell, trade, or transfer any data to third parties. The Software has no mechanism to do so.
+Kasalix does not transmit AI conversations to servers operated by Filip Kasman.
 
-## 4. Security
+---
 
-### Local Security
+# 5. Networking
 
-Since the Software runs on your hardware, security is your responsibility:
+When clients connect to a Kasalix server, communication occurs directly with the host server over the configured network.
 
-- **Network access**: The server is bound to your local network
-- **Authentication**: Passwords are hashed with Argon2
-- **Encryption**: HTTPS is enabled by default
-- **Firewall**: Port 3001 must be opened for LAN access
+The security of that network is the responsibility of the server host.
 
-### Password Storage
+---
 
-Passwords are:
-- Hashed using **Argon2** (or bcrypt as fallback)
-- Automatically salted
-- Never stored in plain text
-- Never logged or exposed
+# 6. Third-Party Software
 
-## 5. User Rights
+Kasalix may interact with third-party software, including:
 
-Since all data is stored locally on your server, you have full control:
+* Ollama
+* AI models selected by the host
+* GitHub (for software releases and documentation)
 
-- **Access**: View all stored data in the application
-- **Deletion**: Delete conversations, files, and account data through the UI
-- **Portability**: Data is stored in standard formats (JSON, images)
-- **Correction**: Edit your username and settings
+Those services are governed by their own privacy policies and terms.
 
-## 6. Children's Privacy
+---
 
-The Software is not specifically directed at children under 13. However, since the Software is self-hosted and does not collect any data externally, this is not applicable in the traditional sense.
+# 7. Downloads
 
-## 7. Changes to This Policy
+Official software downloads are provided through official Kasalix distribution channels.
 
-If this policy is updated, the "Last updated" date at the top will change. Since the Software is self-hosted, updates are delivered through the normal update process.
+Third-party platforms used for distribution may collect information according to their own privacy policies.
 
-## 8. Contact
+---
 
-For questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/Kasikexe/Kasalix).
+# 8. Cookies
 
-## 9. Self-Hosted Nature
+The Kasalix desktop and mobile applications do not use cookies.
 
-**Important:** Because Kasalix is self-hosted:
-- The software authors have no access to your data
-- Data never leaves your network unless you configure it to
-- You are responsible for the security of your own server
-- Network traffic between clients and server is your responsibility
+The Kasalix website may use cookies or similar technologies only where necessary for website functionality or security. If such technologies are introduced, this Privacy Policy will be updated accordingly.
+
+---
+
+# 9. Children's Privacy
+
+Kasalix is not specifically directed toward children.
+
+Users are responsible for complying with applicable laws regarding minors in their jurisdiction.
+
+---
+
+# 10. Data Security
+
+Kasalix includes security features intended to help protect locally stored information.
+
+However, no software can guarantee absolute security.
+
+Server hosts are responsible for securing their own systems and networks.
+
+---
+
+# 11. International Use
+
+Kasalix is available worldwide.
+
+Users are responsible for ensuring compliance with local laws applicable to their use of the Software.
+
+---
+
+# 12. Changes to this Privacy Policy
+
+We may update this Privacy Policy periodically.
+
+The latest version will be available through official Kasalix distribution channels.
+
+---
+
+# 13. Contact
+
+If you have questions regarding this Privacy Policy, contact:
+
+Filip Kasman
+
+Email: [kasalix@proton.me](mailto:kasalix@proton.me)

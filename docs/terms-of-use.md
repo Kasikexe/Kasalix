@@ -1,81 +1,165 @@
 # Terms of Use
 
-**Last updated: July 2026**
+**Effective Date:** July 29, 2026
 
-## 1. Acceptance
+These Terms of Use ("Terms") govern your access to and use of Kasalix ("Software"), including the Kasalix Server, Windows Client, Android Client, website, documentation, and related services provided by **Filip Kasman** ("we", "our", or "us").
 
-By downloading, installing, or using Kasalix AI Chat ("the Software"), you agree to these Terms of Use. If you do not agree, do not use the Software.
+By downloading, installing, accessing, or using Kasalix, you agree to these Terms.
 
-## 2. License
+---
 
-The Software is distributed under the **MIT License**:
+# 1. About Kasalix
 
-```
-MIT License
+Kasalix is a self-hosted software platform that enables users to access locally hosted AI models through Ollama.
 
-Copyright (c) 2026 Kasalix
+Kasalix is not an AI model and does not provide AI services. AI functionality depends on Ollama and any AI models installed by the user.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# 2. Eligibility
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+You are responsible for ensuring that your use of Kasalix complies with the laws applicable in your jurisdiction.
 
-**You may:**
-- Use the Software commercially
-- Modify the Software
-- Distribute copies
-- Sublicense
-- Use privately
+If you are using Kasalix on behalf of an organization, you confirm that you have the authority to accept these Terms on behalf of that organization.
 
-**You may not:**
-- Hold the authors liable
-- Use the trademarks without permission
+---
 
-## 3. User Responsibilities
+# 3. Permitted Use
 
-**Server Operators:**
-- You are responsible for the security of your server
-- You are responsible for data stored on your server
-- You must comply with applicable laws in your jurisdiction
-- You should inform users how their data is handled
+You may use Kasalix for lawful purposes, including:
 
-**Client Users:**
-- You are responsible for your account credentials
-- You are responsible for content you submit to the AI
-- Do not use the Software for illegal purposes
+* Personal use.
+* Educational use.
+* Research.
+* Internal business use.
+* Internal organizational use.
+* Hosting Kasalix for members of your organization, school, business, household, or similar lawful group.
 
-## 4. AI Model Output
+---
 
-AI-generated content may not be copyrightable in all jurisdictions. Users should:
-- Understand the legal status of AI-generated content in their jurisdiction
-- Review the terms of the specific AI models being used
+# 4. Prohibited Use
 
-## 5. Limitation of Liability
+You agree not to:
 
-The Software is provided "as is", without warranty of any kind. The authors shall not be liable for any claim, damages, or other liability arising from use of the Software.
+* Violate applicable laws.
+* Distribute malware or malicious content.
+* Attempt unauthorized access to systems.
+* Interfere with other users or networks.
+* Circumvent security features.
+* Use Kasalix to infringe intellectual property rights.
+* Redistribute Kasalix without permission.
+* Sell or sublicense Kasalix.
+* Charge users specifically for access to Kasalix or its functionality.
+* Misrepresent Kasalix as your own software.
 
-## 6. Third-Party Components
+---
 
-The Software uses open-source components licensed under MIT, Apache 2.0, and BSD licenses. Each component's license is included in its package distribution. See also the [EULA](eula.md) for additional terms.
+# 5. AI Models
 
-## 7. Governing Law
+Kasalix works with AI models installed through Ollama.
 
-This agreement shall be governed by the laws of the Czech Republic.
+Users are solely responsible for:
 
-## 8. Contact
+* Selecting AI models.
+* Downloading AI models.
+* Complying with applicable AI model licenses.
+* Ensuring their chosen models are lawful to use.
 
-For questions, open an issue on the [GitHub repository](https://github.com/Kasikexe/Kasalix).
+Kasalix does not provide, own, or license AI models.
+
+---
+
+# 6. User Responsibility
+
+You are responsible for:
+
+* Securing your server.
+* Managing user accounts.
+* Choosing strong passwords.
+* Protecting your local network.
+* Creating backups if desired.
+
+The security of your hosted server remains your responsibility.
+
+---
+
+# 7. Updates
+
+We may release updates, improvements, or bug fixes.
+
+We are not obligated to continue providing updates or support for any version.
+
+---
+
+# 8. Availability
+
+We do not guarantee that:
+
+* Kasalix will always be available.
+* Downloads will always remain online.
+* Future versions will be released.
+* Every feature will remain unchanged.
+
+---
+
+# 9. Third-Party Software
+
+Kasalix relies on third-party software, including Ollama and user-selected AI models.
+
+Those components are governed by their own licenses and terms.
+
+---
+
+# 10. Disclaimer
+
+Kasalix is provided "AS IS" without warranties of any kind.
+
+We do not guarantee:
+
+* Continuous availability.
+* Error-free operation.
+* Compatibility with every device.
+* Suitability for every purpose.
+
+---
+
+# 11. Limitation of Liability
+
+To the maximum extent permitted by law, Filip Kasman shall not be liable for any damages arising from:
+
+* Software failures.
+* AI-generated content.
+* Loss of data.
+* Security incidents.
+* Third-party software.
+* User configuration errors.
+
+Your use of Kasalix is entirely at your own risk.
+
+---
+
+# 12. Suspension or Termination
+
+If you violate these Terms or the EULA, your license to use Kasalix may terminate immediately.
+
+---
+
+# 13. Changes
+
+These Terms may be updated from time to time.
+
+The latest version will be published through official Kasalix distribution channels.
+
+---
+
+# 14. Governing Law
+
+These Terms are governed by the laws of the Czech Republic.
+
+---
+
+# 15. Contact
+
+Filip Kasman
+
+Email: [kasalix@proton.me](mailto:kasalix@proton.me)
