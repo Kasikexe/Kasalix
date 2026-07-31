@@ -14,18 +14,13 @@ Full-featured chat interface with streaming responses:
 - **Rich formatting** — Markdown, code blocks, tables
 - **Image upload** — Share images with vision-capable models
 
-### 🛠️ Agent Mode
+### 🛠️ Agent Mode (Beta) - Limited Features
 
 AI agents with tool access for autonomous task execution:
 
-- **Calculator** — Complex mathematical expressions
-- **Web Search** — Internet search capabilities
-- **Code Execution** — Run code in sandboxed environment
-- **Image Generation** — Create images from text
-- **File Operations** — Read/write files in workspace
-- **Data Processing** — JSON, text, color, hash tools
-- **Unit Conversion** — Convert between measurement units
-- **Random Generation** — Generate passwords, numbers, IDs
+- **Generates Code** - Generates code for you.
+- **Terminal** - Executes some commands
+- **Plan Mode** - Before Executing Generates Plan.
 
 ### 🎬 Video Editor Mode (Planned)
 
