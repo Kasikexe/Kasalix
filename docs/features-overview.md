@@ -132,7 +132,6 @@ Use Kasalix from any device on your network:
 | No registration required | ✅ | ❌ | ✅ |
 | Server monitoring | ✅ | ❌ | ❌ |
 | Agent mode | ✅ | ✅ | ❌ |
-| Video Editor Mode | ✅ | ❌ | ❌ |
 | Windows client | ✅ | ✅ | ❌ |
 | Android client | ✅ | ✅ | ❌ |
 | Auto-update | ✅ | ✅ | ❌ |
@@ -140,7 +139,6 @@ Use Kasalix from any device on your network:
 | HTTPS support | ✅ | ✅ | ❌ |
 | File upload | ✅ | ✅ | ✅ |
 | Image generation | ✅ | ✅ | ❌ |
-| Free & open source | ✅ | ❌ | ✅ |
 
 ## Roadmap
 
