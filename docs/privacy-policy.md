@@ -1,9 +1,14 @@
 # Privacy Policy
 
-**Effective Date:** July 29, 2026
+**Effective Date:** August 1, 2026
 
-This Privacy Policy explains how Kasalix handles information when you use the Software.
+This Privacy Policy explains how **Kasalix**, a software project and brand owned and operated by **Filip Kasman**, handles information when you use Kasalix software or visit the official Kasalix website.
 
+Kasalix is not a separate legal entity unless otherwise stated. For the purposes of this Privacy Policy, "Kasalix", "we", "us", and "our" refer to Filip Kasman as the owner and operator of the Kasalix project.
+
+If you have questions about this Privacy Policy, you can contact us at:
+
+**Email:** kasalix@proton.me
 ---
 
 # 1. Overview

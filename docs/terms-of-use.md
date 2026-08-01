@@ -1,10 +1,14 @@
 # Terms of Use
 
-**Effective Date:** July 29, 2026
+**Effective Date:** August 1, 2026
 
-These Terms of Use ("Terms") govern your access to and use of Kasalix ("Software"), including the Kasalix Server, Windows Client, Android Client, website, documentation, and related services provided by **Filip Kasman** ("we", "our", or "us").
+These Terms of Use ("Terms") govern your access to and use of **Kasalix**, including the Kasalix Server, Kasalix Windows Client, Kasalix Android Client, official website, documentation, and related materials.
 
-By downloading, installing, accessing, or using Kasalix, you agree to these Terms.
+**Kasalix is a software project and brand owned and operated by Filip Kasman. Kasalix is not a separate legal entity unless otherwise stated.**
+
+In these Terms, "Kasalix", "we", "us", and "our" refer to the Kasalix project operated by Filip Kasman.
+
+By downloading, installing, accessing, or using Kasalix, you agree to these Terms. If you do not agree to these Terms, you must not use Kasalix.
 
 ---
 

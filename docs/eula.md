@@ -1,8 +1,12 @@
 # End User License Agreement (EULA)
 
-**Effective Date:** July 29, 2026
+**Effective Date:** August 1, 2026
 
-This End User License Agreement ("Agreement" or "EULA") is a legally binding agreement between you ("User", "you", or "your") and **Filip Kasman** ("Licensor", "we", "our", or "us") regarding your installation and use of **Kasalix**, including the Kasalix Server, Windows Client, Android Client, and any future official releases (collectively, the "Software").
+This End User License Agreement ("Agreement" or "EULA") is a legally binding agreement between you ("User", "you", or "your") and **Filip Kasman**, the owner and operator of the **Kasalix** software project ("Licensor", "we", "our", or "us").
+
+**Kasalix** is a software project and brand owned and operated by Filip Kasman. Kasalix is not a separate legal entity unless otherwise stated.
+
+This Agreement governs your installation and use of Kasalix, including the Kasalix Server, Kasalix Windows Client, Kasalix Android Client, and any future official releases of the Software.
 
 By downloading, installing, accessing, or using the Software, you agree to be bound by this Agreement. If you do not agree to these terms, do not install or use the Software.
 
